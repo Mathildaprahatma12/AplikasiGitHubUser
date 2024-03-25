@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AplikasiGithubUser</string>
+    <string name="cd_avatar">profile_picture</string>
+    <string name="cd_back_button">back_button</string>
+    <string name="empty">Data is empty!</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="following">%s Following</string>
+    <string name="followers">%s Followers</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+</resources>
